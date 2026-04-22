@@ -1,2 +1,1 @@
-# ai-post
-AI posts
+# AI posts 
